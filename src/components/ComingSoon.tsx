@@ -2,7 +2,7 @@ import { JSX, SVGProps } from "react"
 
 export default function ComingSoon() {
   return (
-    <div className="flex pb-20 h-screen w-full flex-col items-center justify-center px-4 text-center">
+    <div className="flex mt-36 h-screen flex-col items-center text-center">
       <LoaderIcon className="h-40 w-40 animate-spin text-green-800"/>
       <h1 className="mt-8 text-2xl font-bold">Coming Soon</h1>
       <h1 className="mt-4 text-4xl font-bold">콘텐츠 준비 중입니다.</h1>
