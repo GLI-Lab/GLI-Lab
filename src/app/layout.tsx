@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   },
   description: "Graph & Language Intelligence 연구실 홈페이지",
   icons: {
-    icon: "/GLI_logo_black.png",
+    icon: "/GLI_logo_green.png",
   },
 };
 

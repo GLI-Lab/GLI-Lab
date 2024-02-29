@@ -72,7 +72,7 @@ export default function Header() {
           <Link href="/" className="items-center flex min-w-[270px]">
             {/*lg:h-20 lg:w-20*/}
             <div className="h-[70px] w-[70px]">
-              <Image src="/GLI_spare_v2 Black Logo.png" alt="logo" width="96" height="96" layout="intrinsic"/>
+              <Image src="/GLI_logo_green.png" alt="logo" width="96" height="96" layout="intrinsic"/>
             </div>
             {/*lg:text-[24px]*/}
             <div className="-space-y-1 ml-3 text-gray-600 font-medium text-[20px] md:text-[20px]">
